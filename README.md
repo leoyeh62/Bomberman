@@ -1,10 +1,10 @@
-#  Bomberman - JavaFX & Gradle
+#  💣 Bomberman - JavaFX & Gradle
 
 Un projet qui vise à réaliser une réplique du célèbre jeu **Bomberman** développé en **Java** avec **JavaFX** pour l'interface graphique et **Gradle** pour l'outil de build et la gestion de dépendances.
 
 ---
 
-##  Fonctionnalités 
+## 🚀 Fonctionnalités 
 
 - Déplacement du joueur sur une grille
 - Pose et explosion de bombes
@@ -15,7 +15,7 @@ Un projet qui vise à réaliser une réplique du célèbre jeu **Bomberman** dé
 
 ---
 
-##  Prérequis
+## ⚙️ Prérequis
 
 - [Java 23](https://www.java.com/fr/)
 - [Gradle 8.8](https://gradle.ord/)
@@ -23,7 +23,7 @@ Un projet qui vise à réaliser une réplique du célèbre jeu **Bomberman** dé
 
 ---
 
-## Installation 
+## 🔗 Installation 
 
 1. **cloner le dépôt**
 
