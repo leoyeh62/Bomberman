@@ -10,7 +10,7 @@ Un projet qui vise à réaliser une réplique du célèbre jeu **Bomberman** dé
 - Pose et explosion de bombes
 - Destruction de blocs et gestion de collisions
 - Ennemis avec comportement simple
-- Gestion du score ~~et des vies~~
+- Gestion du score 
 - Interface graphique réalisée avec JavaFX
 
 ---
